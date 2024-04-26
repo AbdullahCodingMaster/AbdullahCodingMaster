@@ -20,9 +20,9 @@
 
 ### With a steadfast dedication to continual growth and learning, I'm Muhammad Abdullah Awan. Currently enrolled at the University of Azad Jammu and Kashmir, I actively pursue opportunities in problem-solving and web development.
 
-Thriving amidst change and challenges, I eagerly embrace opportunities that ignite creative solutions and rapid adaptation. In my current academic journey, I prioritize maintaining excellence while expanding my self-taught expertise in web development. Starting from foundational HTML, CSS, and JavaScript, I'm progressing steadily towards mastery in Tailwind and React.js.
+### Thriving amidst change and challenges, I eagerly embrace opportunities that ignite creative solutions and rapid adaptation. In my current academic journey, I prioritize maintaining excellence while expanding my self-taught expertise in web development. Starting from foundational HTML, CSS, and JavaScript, I'm progressing steadily towards mastery in Tailwind and React.js.
 
-## Skills:
+## <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Skills:
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
