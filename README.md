@@ -1,9 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
-<br>-->
-
-# <div align="center">🟣 Alex NESVIT 🇺🇦 🇫🇷 💻 🪂🟣 </div>
+# <div align="center">🟣 Muhammad Abdullah Awan💻 🟣 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -15,7 +12,7 @@
 
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Full-Stack Developer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></div>
 
-## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> La Ciotat, France</div>
+## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Muzaffarabad, AJK Pakistan</div>
 
 ## <div align="center">☕ Support Me
 
@@ -27,8 +24,6 @@
 ---
 
 ### Holding a Master's degree in Business Economics 🎓 and a Professional Certificate in Web Development 🏆, I am deeply passionate about programming 💻. Beyond the realm of coding 👨🏻‍💻, I also enjoy various sports activities such as skydiving 🪂 and running 🏃🏻‍♂️. Another one of my hobbies is capturing the beauty of nature through drone filming 📹, and I love the post-production editing process [look my video here](https://www.youtube.com/watch?v=XJzFNiSS-AI). My passion lies in creating engaging and dynamic web projects. Welcome to my page and thank you for your support!
-
-<!--### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser [le montage par la suite voir ici](https://www.youtube.com/watch?v=XJzFNiSS-AI). J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Ma passion réside dans la réalisation de projets web captivants et dynamiques. -->
 
 <p align="center">
  <img width="800" src="assets/github-snake.svg" alt="snake"/>
@@ -95,37 +90,3 @@
   </div>
 
 ---
-
-## <div align="center">⚙️ GitHub Profile Stats:
-
-  </div>
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexNesvit&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNesvit&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-&nbsp;<div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-
-</div>
-
-<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
--->
-
-&nbsp;<div align="center">
-[![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
-![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
-<img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/>
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
-![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
-![status](https://img.shields.io/badge/status-up-brightgreen)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
-
-</div>
