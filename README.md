@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;Full-Stack+Developer;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30&color=754EF9">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Abdullah;Full-Stack+Developer;Welcome+to+my+page!;Muzaffarabad+AJK+💻+🪂&center=true&size=30&color=754EF9">
   </a>
 </h1>
 
@@ -23,7 +23,35 @@
 
 ---
 
-### Holding a Master's degree in Business Economics 🎓 and a Professional Certificate in Web Development 🏆, I am deeply passionate about programming 💻. Beyond the realm of coding 👨🏻‍💻, I also enjoy various sports activities such as skydiving 🪂 and running 🏃🏻‍♂️. Another one of my hobbies is capturing the beauty of nature through drone filming 📹, and I love the post-production editing process [look my video here](https://www.youtube.com/watch?v=XJzFNiSS-AI). My passion lies in creating engaging and dynamic web projects. Welcome to my page and thank you for your support!
+### With a steadfast dedication to continual growth and learning, I'm Muhammad Abdullah Awan. Currently enrolled at the University of Azad Jammu and Kashmir, I actively pursue opportunities in problem-solving and web development.
+
+Thriving amidst change and challenges, I eagerly embrace opportunities that ignite creative solutions and rapid adaptation. In my current academic journey, I prioritize maintaining excellence while expanding my self-taught expertise in web development. Starting from foundational HTML, CSS, and JavaScript, I'm progressing steadily towards mastery in Tailwind and React.js.
+
+**Skills:**
+
+**Current:**
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- React.js
+
+**Future (in progress):**
+
+- Node.js (Backend)
+- Express.js (Backend)
+- MongoDB (Database)
+
+**Other Skills (Frontend/Backend):**
+
+- Responsive Web Design
+- Git Version Control
+- API Integration
+- Problem Solving
+- User Experience (UX) Design
+- Agile Development
+  I welcome you to reach out for potential collaborations, engaging discussions, or shared interests. Let's embark on an inspiring journey together! ✨🚀"
 
 <p align="center">
  <img width="800" src="assets/github-snake.svg" alt="snake"/>
@@ -78,14 +106,11 @@
   </div>
 
  <div id="badges" align="center">
-    <a href="https://www.github.com/AlexNesvit" target="_blank">
+    <a href="https://github.com/AbdullahCodingMaster/" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
     </a>
-    <a href="https://www.linkedin.com/in/alexnesvit" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammad-abdullah-awan/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://www.youtube.com/@MetlaAlex" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
   </div>
 
